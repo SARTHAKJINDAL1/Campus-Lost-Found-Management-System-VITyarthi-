@@ -251,9 +251,18 @@ CampusLostAndFound/
 │   ├── CampusLostAndFound.java
 │   └── Item.java
 │
-└── data/
-    ├── users.txt
-    └── items.txt
+├── data/
+│   ├── users.txt
+│   └── items.txt
+│
+├── Screenshots/
+│
+├── Project Report.pdf
+│
+├── README.md
+│
+└── Statement.md
+
 ```
 
 ### `src/`
